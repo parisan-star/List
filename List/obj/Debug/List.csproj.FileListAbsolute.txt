@@ -1,0 +1,9 @@
+E:\program\back end\دوره پیشرفته\List\List\bin\Debug\List.exe.config
+E:\program\back end\دوره پیشرفته\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+E:\program\back end\دوره پیشرفته\List\List\obj\Debug\List.Form1.resources
+E:\program\back end\دوره پیشرفته\List\List\obj\Debug\List.Properties.Resources.resources
+E:\program\back end\دوره پیشرفته\List\List\obj\Debug\List.csproj.GenerateResource.Cache
+E:\program\back end\دوره پیشرفته\List\List\bin\Debug\List.exe
+E:\program\back end\دوره پیشرفته\List\List\bin\Debug\List.pdb
+E:\program\back end\دوره پیشرفته\List\List\obj\Debug\List.exe
+E:\program\back end\دوره پیشرفته\List\List\obj\Debug\List.pdb
